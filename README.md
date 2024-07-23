@@ -56,7 +56,7 @@ In this project, I choose SBC Board because it brings off more power for data pr
 4. Car (quantity=3): act as a thing that occupies a parking slot
 ## Config devices
 ### SBC
-I use JavaScript to program for the SBC, the code file can be found in the file of this project for more details 
+I use JavaScript to program for the SBC, the code file can be found in the main of this project for more details 
 ### Router
 ```
 Router>enable
@@ -82,4 +82,7 @@ SP-RT(dhcp-config)# dns-server 203.0.0.2
 ![](sensor_config5.png)
 ### Smartphone
 ![](smartphone1.png)
-
+## Topo and modeling
+![](topo1.png)
+## Result
+![](topo2.png)
