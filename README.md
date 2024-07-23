@@ -56,7 +56,8 @@ In this project, I choose SBC Board because it brings off more power for data pr
 4. Car (quantity=3): act as a thing that occupies a parking slot
 ## Config devices
 ### SBC
-I use JavaScript to program for the SBC, the code file can be found in the main of this project for more details 
+I use JavaScript to program for the SBC, the code file can be found in the main of this project for more details
+![](
 ### Router
 ```
 Router>enable
