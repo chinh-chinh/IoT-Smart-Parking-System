@@ -55,6 +55,8 @@ In this project, I choose SBC Board because it brings off more power for data pr
 3. Smartphone (quantity=1): act as the terminal device of end-user
 4. Car (quantity=3): act as a thing that occupies a parking slot
 ## Config devices
+### SBC
+I use JavaScript to program for the SBC, the code file can be found in the file of this project for more details 
 ### Router
 ```
 Router>enable
@@ -69,5 +71,15 @@ SP-RT(dhcp-config)# default-router 10.10.10.1
 SP-RT(dhcp-config)# dns-server 203.0.0.2
 ```
 ### Others
-1. Access point
-   ![](
+### Access point
+![](AP1.png)
+![](AP2.png)
+### Metal sensor
+![](sensor_config1.png)
+![](sensor_config2.png)
+![](sensor_config3.png)
+![](sensor_config4.png)
+![](sensor_config5.png)
+### Smartphone
+![](smartphone1.png)
+
