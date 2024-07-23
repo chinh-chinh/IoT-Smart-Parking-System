@@ -56,6 +56,7 @@ In this project, I choose SBC Board because it brings off more power for data pr
 4. Car (quantity=3): act as a thing that occupies a parking slot
 ## Config devices
 ### Router
+```
 Router>enable
 Router#configure terminal
 Router(config)#hostname SP-RT
@@ -66,4 +67,7 @@ SP-RT(config)# ip dhcp pool ccp-pool
 SP-RT(dhcp-config)# network 10.10.10.0 255.255.255.0
 SP-RT(dhcp-config)# default-router 10.10.10.1
 SP-RT(dhcp-config)# dns-server 203.0.0.2
+```
 ### Others
+1. Access point
+   ![](
